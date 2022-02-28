@@ -1,0 +1,1 @@
+rootProject.name = "de.ferdoran.sro-kot"
